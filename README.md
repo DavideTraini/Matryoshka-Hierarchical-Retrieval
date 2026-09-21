@@ -1,1 +1,1 @@
-# Matryoshka-Hierarchical-Retrieval-CIKM
+# MatRAG
